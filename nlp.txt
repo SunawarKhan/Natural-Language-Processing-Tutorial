@@ -1,0 +1,7 @@
+We dive into the natural language toolkit (NLTK) library to present how it can be useful for natural language processing related-tasks. Afterward, we will discuss the basics of other Natural Language Processing libraries and other essential methods for NLP, along with their respective coding sample implementations in Python. What is Natural Language Processing?
+Computers and machines are great at working with tabular data or spreadsheets. However, as human beings generally communicate in words and sentences, not in the form of tables. Much information that humans speak or write is unstructured. So it is not very clear for computers to interpret such. In natural language processing (NLP), the goal is to make computers understand the unstructured text and retrieve meaningful pieces of information from it. Natural language Processing (NLP) is a subfield of artificial intelligence, in which its depth involves the interactions between computers and humans.
+2374  4 73894 7 343 47238 738 742384  38473 894 3489723 9423 94723 9439 4 894 73894 347389 47 3947 389  389 472389 43 493 43
+
+https://www.iiu.edu.pk/faculties/social-sciences/departments-ss/sociology/guidelines-for-writing-paper/
+
+https://qau.edu.pk/tuition-fees/
